@@ -29,3 +29,6 @@ services:
       - backend
     volumes:
       - ./database:/var/lib/mysql
+
+
+        ##bRIGHT        
