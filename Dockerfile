@@ -4,7 +4,7 @@ MAINTAINER  Dellatech Global <www.dellatechglobal.com>
 
 RUN yum -y install httpd php
 
-RUN echo "welcome to Dellatech Global www.dellatechglobal.com" > /var/www/html/index.html
+RUN echo "welcome to Dellatech Global llc www.dellatechglobal.com" > /var/www/html/index.html
 
 EXPOSE 80
 
